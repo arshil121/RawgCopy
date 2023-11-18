@@ -7,19 +7,23 @@ This project is a replication of the RAWG platform's front end using React JS, s
 - **Live website URL**: [View Live](https://rawg-copy-arshil121-arshils-projects.vercel.app/)
 - **Project original source**: [Original Project](https://github.com/mosh-hamedani/game-hub)
 
-## Functionalities:
+### Features and Implementation:
 
-- **Building Front-end Apps with React and TypeScript**: Developed using React and TypeScript for robust and efficient front-end development.
-- **Reusable Function Components**: Created reusable components to optimize code reusability and maintainability.
-- **Component Styling**: Employed various styling methodologies including vanilla CSS, CSS modules, and CSS-in-JS techniques to enhance component styling.
-- **State Management**: Effectively managed component state for seamless user interactions and data handling.
-- **Form Handling with React Hook Forms**: Implemented forms using React Hook Forms for efficient form management.
-- **Form Validation using Zod**: Implemented robust form validation techniques using Zod for data integrity.
-- **Backend Connectivity**: Connected the React application to a backend system for data interaction and retrieval.
-- **Deployment**: Successfully deployed the React application for live access and usage.
-- **Productivity Enhancement**: Leveraged VSCode shortcuts to boost productivity during development.
-- **Clean Code Practices**: Maintained clean and organized code structure following best practices.
-- **Best Practices**: Implemented industry-standard best practices for optimal performance and maintainability.
+- **Component Reusability:** Utilized React's component-based architecture for building reusable UI elements.
+- **Styling:** Employed Chakra CSS for comprehensive styling.
+- **State Management:** Managed states effectively to ensure seamless functionality across the app.
+- **Form Handling:** Integrated React Hook Forms with Zod validation for robust form functionality.
+- **Backend Integration:** Connected to the backend for data retrieval and updates.
+- **Deployment:** Successfully deployed in the application for public access using vercel.
+
+### Technologies Used:
+
+- React.js
+- Chakra CSS
+- React Hook Forms with Zod validation
+- Rawg API integration
+- Backend integration (backend technology)
+- Deployment tools (Vercel)
 
 ## Project Structure:
 
