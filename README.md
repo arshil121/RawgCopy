@@ -4,7 +4,7 @@ This project is a replication of the RAWG platform's front end using React JS, s
 
 ## Additional Information:
 
-- **Live website URL**: [View Live](https://rawg-copy-arshil121-arshils-projects.vercel.app/)
+- **Live website URL**: [View Live](https://rawg-copy-nine.vercel.app/)
 - **Project original source**: [Original Project](https://github.com/mosh-hamedani/game-hub)
 
 ### Features and Implementation:
