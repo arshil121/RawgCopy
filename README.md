@@ -11,10 +11,9 @@ This project is a replication of the RAWG platform's front end using React JS, s
 
 - **Component Reusability:** Utilized React's component-based architecture for building reusable UI elements.
 - **Styling:** Employed Chakra CSS for comprehensive styling.
-- **State Management:** Managed states effectively to ensure seamless functionality across the app.
 - **Form Handling:** Integrated React Hook Forms with Zod validation for robust form functionality.
 - **Backend Integration:** Connected to the backend for data retrieval and updates.
-- **Deployment:** Successfully deployed in the application for public access using vercel.
+- **Deployment:** Successfully deployed in the application for public access using Vercel.
 
 ### Technologies Used:
 
