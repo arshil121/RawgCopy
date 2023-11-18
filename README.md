@@ -1,6 +1,11 @@
 # RAWG Copy Frontend Website
 
-This project is a replication of the RAWG platform's frontend using React JS, showcasing a comprehensive range of functionalities.
+This project is a replication of the RAWG platform's front end using React JS, showcasing a comprehensive range of functionalities.
+
+## Additional Information:
+
+- **Live website URL**: [View Live](https://rawg-copy-arshil121-arshils-projects.vercel.app/)
+- **Project original source**: [Original Project](https://github.com/mosh-hamedani/game-hub)
 
 ## Functionalities:
 
@@ -26,10 +31,5 @@ This project is a replication of the RAWG platform's frontend using React JS, sh
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
-
-## Additional Information:
-
-- **Live website URL**: [View Live](https://rawg-copy-arshil121-arshils-projects.vercel.app/)
-- **Project original source**: [Original Project](https://github.com/mosh-hamedani/game-hub)
 
 Feel free to explore the codebase and utilize the functionalities according to your requirements.
