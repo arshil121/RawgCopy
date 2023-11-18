@@ -1,27 +1,35 @@
-# React + TypeScript + Vite
+# RAWG Copy Frontend Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a replication of the RAWG platform's frontend using React JS, showcasing a comprehensive range of functionalities.
 
-Currently, two official plugins are available:
+## Functionalities:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Building Front-end Apps with React and TypeScript**: Developed using React and TypeScript for robust and efficient front-end development.
+- **Reusable Function Components**: Created reusable components to optimize code reusability and maintainability.
+- **Component Styling**: Employed various styling methodologies including vanilla CSS, CSS modules, and CSS-in-JS techniques to enhance component styling.
+- **State Management**: Effectively managed component state for seamless user interactions and data handling.
+- **Form Handling with React Hook Forms**: Implemented forms using React Hook Forms for efficient form management.
+- **Form Validation using Zod**: Implemented robust form validation techniques using Zod for data integrity.
+- **Backend Connectivity**: Connected the React application to a backend system for data interaction and retrieval.
+- **Deployment**: Successfully deployed the React application for live access and usage.
+- **Productivity Enhancement**: Leveraged VSCode shortcuts to boost productivity during development.
+- **Clean Code Practices**: Maintained clean and organized code structure following best practices.
+- **Best Practices**: Implemented industry-standard best practices for optimal performance and maintainability.
 
-## Expanding the ESLint configuration
+## Project Structure:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- `src/`: Contains the main source code for the React application.
+- `public/`: Houses the public assets and HTML entry point.
 
-- Configure the top-level `parserOptions` property like this:
+## Usage:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the application using `npm start`.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Additional Information:
+
+- **Live website URL**: [View Live](https://rawg-copy-arshil121-arshils-projects.vercel.app/)
+- **Project original source**: [Original Project](https://github.com/mosh-hamedani/game-hub)
+
+Feel free to explore the codebase and utilize the functionalities according to your requirements.
